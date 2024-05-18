@@ -18,7 +18,7 @@ This project aims to detect heart disease using three different machine learning
 
 ## Introduction
 
-Heart disease is a leading cause of mortality worldwide, making early detection crucial. This project leverages machine learning techniques to predict the likelihood of heart disease in patients based on various medical parameters. By using three different algorithms, we aim to understand their strengths and weaknesses in this context.
+Heart disease is a leading cause of mortality worldwide, making early detection crucial. This project leverages machine learning techniques to predict the likelihood of heart disease in patients based on various medical parameters. Using three different algorithms, we aim to understand their strengths and weaknesses in this context.
 
 ## Dataset
 
